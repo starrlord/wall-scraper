@@ -18,7 +18,7 @@
 Install the required libraries using the following command:
 
 ```bash
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## Usage
